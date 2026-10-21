@@ -38,9 +38,9 @@ export const metadata: Metadata = {
     "art showcase",
   ],
   metadataBase: new URL(
-    process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000"
+    process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000",
   ),
-  authors: [{ name: "Ondřej Pták", url: "https://github.com/florixak" }],
+  authors: [{ name: "Ondřej Pták", url: "https://github.com/ondrejptak" }],
   creator: "Ondřej Pták",
   openGraph: {
     title: {

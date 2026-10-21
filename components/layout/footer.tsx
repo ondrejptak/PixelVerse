@@ -15,7 +15,7 @@ const Footer = () => {
 
       <div className="flex justify-center gap-4 text-xs">
         <a
-          href="https://github.com/florixak/pixelverse"
+          href="https://github.com/ondrejptak/pixelverse"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:underline"

@@ -1,7 +1,7 @@
 # PixelVerse
 
 <p align="center">
-  <img alt="PixelVerse Logo" width="120" src="https://raw.githubusercontent.com/florixak/PixelVerse/refs/heads/main/public/pixelverse-favicon.png">
+  <img alt="PixelVerse Logo" width="120" src="https://raw.githubusercontent.com/ondrejptak/PixelVerse/refs/heads/main/public/pixelverse-favicon.png">
 </p>
 
 <p align="center">
@@ -80,7 +80,7 @@
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/florixak/PixelVerse.git
+   git clone https://github.com/ondrejptak/PixelVerse.git
    cd PixelVerse
    ```
 
